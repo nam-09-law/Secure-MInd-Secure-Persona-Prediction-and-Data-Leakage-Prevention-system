@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="SecureMind_New/SecureMind_New.csproj" />
+  <Project Path="SecurePersona.API/SecurePersona.API.csproj" />
+  <Project Path="SecurePersona.Data/SecurePersona.Data.csproj" />
+  <Project Path="SecurePersona.Models/SecurePersona.Models.csproj" />
+  <Project Path="SecurePersona.Service/SecurePersona.Service.csproj" />
+  <Project Path="SecurePersona.Web/SecurePersona.Web.csproj" />
+</Solution>
